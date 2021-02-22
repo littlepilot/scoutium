@@ -6,7 +6,7 @@ composer install
 ```
 
 
-#Test
+# Test
 ```bash
 ./vendor/bin/sail artisan test
 ```
